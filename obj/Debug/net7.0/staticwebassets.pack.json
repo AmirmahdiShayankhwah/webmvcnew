@@ -1,0 +1,233 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\mvc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\mvc.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\blog.html",
+      "PackagePath": "staticwebassets\\blog.html"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\1.png",
+      "PackagePath": "staticwebassets\\icon\\1.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\2.png",
+      "PackagePath": "staticwebassets\\icon\\2.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\3.png",
+      "PackagePath": "staticwebassets\\icon\\3.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\4.png",
+      "PackagePath": "staticwebassets\\icon\\4.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\calll.png",
+      "PackagePath": "staticwebassets\\icon\\calll.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\p1.png",
+      "PackagePath": "staticwebassets\\icon\\p1.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\p2.png",
+      "PackagePath": "staticwebassets\\icon\\p2.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\p3.png",
+      "PackagePath": "staticwebassets\\icon\\p3.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\p4.png",
+      "PackagePath": "staticwebassets\\icon\\p4.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\p5.png",
+      "PackagePath": "staticwebassets\\icon\\p5.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\p6.png",
+      "PackagePath": "staticwebassets\\icon\\p6.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\p7.png",
+      "PackagePath": "staticwebassets\\icon\\p7.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\service1.png",
+      "PackagePath": "staticwebassets\\icon\\service1.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\service2.png",
+      "PackagePath": "staticwebassets\\icon\\service2.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\service3.png",
+      "PackagePath": "staticwebassets\\icon\\service3.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\service4.png",
+      "PackagePath": "staticwebassets\\icon\\service4.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\service5.png",
+      "PackagePath": "staticwebassets\\icon\\service5.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\icon\\service6.png",
+      "PackagePath": "staticwebassets\\icon\\service6.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\images\\lllll.png",
+      "PackagePath": "staticwebassets\\images\\lllll.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\images\\mapimg.jpg",
+      "PackagePath": "staticwebassets\\images\\mapimg.jpg"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\images\\pc_layout.png",
+      "PackagePath": "staticwebassets\\images\\pc_layout.png"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\mvc\\wwwroot\\product.html",
+      "PackagePath": "staticwebassets\\product.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.mvc.props",
+      "PackagePath": "build\\mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.mvc.props",
+      "PackagePath": "buildMultiTargeting\\mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.mvc.props",
+      "PackagePath": "buildTransitive\\mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.mvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
